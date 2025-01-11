@@ -278,6 +278,7 @@ select {
 /* 8th started */
 .newsletter{
     background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
     height: 355px;
     margin: 0px 125px;
     justify-items: center;
