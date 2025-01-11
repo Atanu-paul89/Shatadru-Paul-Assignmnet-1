@@ -234,3 +234,28 @@ select {
 .newsimg{
     margin-bottom: 0;
 }
+/* 6thg ended */
+/* 7th sec started  */
+.donh1{
+    text-align: center;
+}
+.amount{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 24px;
+    margin: 10px 125px;
+}
+.value{
+    border: 1px solid rgba(0, 0, 0, 0.247);
+    padding-top: 70px;
+    height: 128px;
+    font-weight: bold;
+    font-size: 40px;
+    width: 264px;
+    border-radius: 16px;
+    box-shadow: 35px 35px 35px #F1F1F3;
+    text-align: center;
+}
+.grn {
+    background-color: rgba(198, 228, 214, 1);
+}
