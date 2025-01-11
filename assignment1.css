@@ -259,3 +259,16 @@ select {
 .grn {
     background-color: rgba(198, 228, 214, 1);
 }
+.other{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    opacity: 40%;
+}
+.hhr{
+    margin: 0 125px 0 125px;
+}
+.done{
+    margin: 0px 630px;
+}
